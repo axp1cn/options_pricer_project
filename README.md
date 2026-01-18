@@ -32,9 +32,6 @@ options_pricer_project/
 │   └── tools.hpp/cpp      # Numerical utilities (cdf, regression, simulation)
 ├── reports/                # Documentation and analysis
 │   └── rapport_pricer.pdf # Project report
-├── notebooks/              # Analysis notebooks (optional)
-├── data/                   # Data directory (see data/README.md)
-├── tests/                  # Unit tests (optional)
 ├── LICENSE                 # MIT License
 ├── requirements.txt        # Dependencies
 └── README.md              # This file
