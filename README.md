@@ -1,6 +1,6 @@
 # Options Pricer
 
-Academic project from ENSAE Paris implementing a comprehensive options pricing framework with support for European, American, and Asian options using analytical and numerical methods.
+Academic project from ENSAE Paris, under Dr. Dumitrescu, implementing a comprehensive options pricing framework with support for European, American, and Asian options using analytical and numerical methods.
 
 ## What It Demonstrates
 
