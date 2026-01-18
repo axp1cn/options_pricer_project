@@ -1,0 +1,13 @@
+# C++ Dependencies
+# This project requires:
+# - C++ compiler with C++11 support (g++, clang++)
+# - Eigen3 library (for matrix operations)
+#
+# Installation:
+# macOS: brew install eigen
+# Ubuntu/Debian: sudo apt-get install libeigen3-dev
+# Or download from: https://eigen.tuxfamily.org/
+
+# Python dependencies (optional, for future analysis scripts)
+# numpy>=1.20.0
+# matplotlib>=3.3.0

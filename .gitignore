@@ -1,0 +1,40 @@
+# Build artifacts
+build/
+*.o
+*.so
+*.a
+*.exe
+*.out
+*.dSYM/
+
+# Compiled binaries
+pricer
+options_pricer
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (keep structure, ignore contents)
+data/*
+!data/.gitkeep
+!data/README.md
+
+# Temporary files
+*.log
+*.tmp
+*.cache
+
+# Secrets and credentials
+*.key
+*.pem
+.env
+secrets.txt
+config.ini
