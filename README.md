@@ -133,7 +133,3 @@ Action: p
 - Black, F., & Scholes, M. (1973). The pricing of options and corporate liabilities. *Journal of Political Economy*, 81(3), 637-654.
 - Longstaff, F. A., & Schwartz, E. S. (2001). Valuing American options by simulation: a simple least-squares approach. *The Review of Financial Studies*, 14(1), 113-147.
 - Hull, J. C. (2018). *Options, Futures, and Other Derivatives* (10th ed.). Pearson.
-
-## Contact
-
-For questions or contributions, please open an issue or contact the repository maintainer.
